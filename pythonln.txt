@@ -1,0 +1,7 @@
+248150 BobJones 3.75 MA
+267801 BobWallace 2.59 CS
+313131 MaryKay 2.77 PH
+713456 GusGrissom 3.3 CS
+713457 SallyRide 3.99 BY
+791047 LornaDoone 2.6 MA
+999999 EileenCollins 4.0 CS
